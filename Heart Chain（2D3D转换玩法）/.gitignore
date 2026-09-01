@@ -1,0 +1,43 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 你项目里的临时目录
+.history/
+.vscode/
+# 排除 AllSkyFree 里不用的高清天空盒（根据你实际用的保留）
+Assets/AllSkyFree/Cold Sunset/
+Assets/AllSkyFree/Deep Dusk/
+Assets/AllSkyFree/Cold Night/
+Assets/AllSkyFree/Epic_GloriousPink/
+Assets/AllSkyFree/Space_AnotherPlanet/
+Assets/AllSkyFree/Night_MoonBurst/
+# ... 其他你不用的天空盒目录
+
