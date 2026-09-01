@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syxc223&label=Profile views&color=0e75b6&style=flat" alt="syxc223" /> </p>
 
-- 🔭 I'm currently working on **unity多人协作解密小游戏**
+- 🔭 目前正在制作 **unity多人协作解密小游戏**和**unity类恶魔城**项目
 
-- 🌱 I'm currently learning **c++与UE5**
+- 🌱 正在学习 **c++与UE5**
 
-- 🤝 I'm looking for help with **学习算法**
+- 🤝 我正在寻找 **学习算法**的一些帮助
 
-- 📫 How to reach me **2743849728@qq.com**
+- 📫 我的邮箱 **2743849728@qq.com**
 
-- 👨‍💻 All of my projects are available at **[https://space.bilibili.com/524189766?spm_id_from=333.337.0.0](https://space.bilibili.com/524189766?spm_id_from=333.337.0.0)**
+- 👨‍💻 关于一些项目演示在我的b站主页 **[https://space.bilibili.com/524189766?spm_id_from=333.337.0.0](https://space.bilibili.com/524189766?spm_id_from=333.337.0.0)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
