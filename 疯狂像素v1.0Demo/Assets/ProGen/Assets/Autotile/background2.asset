@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b08ceb78e3b2495b8d808a5860e66794, type: 3}
+  m_Name: background2
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AutoTile
+  m_DefaultSprite: {fileID: -1454546713, guid: 6b5e65fb66fa1e44b952ce06de32f040, type: 3}
+  m_DefaultGameObject: {fileID: 0}
+  m_DefaultColliderType: 1
+  m_MaskType: 1
+  m_Random: 0
+  m_AutoTileDictionary:
+    keyData: 18000000b80000003a000000380000001a0000003200000090000000360000001b000000b00000009800000092000000b20000009a0000001200000030000000b0010000d8000000fb010000fe010000fa010000bf000000b6010000db000000ff010000ba00000010000000ff000000bf010000fb000000be0100003f000000f8010000be000000bb000000b60000009b0000003e0000003b000000fe000000ba010000fa000000b2010000da000000b8010000f8000000bb010000
+    valueData:
+    - spriteList:
+      - {fileID: -1655137229, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 347042266, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: -144227739, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: -1113748570, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 1466599803, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 5395060223285117550, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: -128926942, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: -1941866479, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 1891460934, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 480461112, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: -423592320, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 1997130517, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: -1086316382, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 1724753382, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: -1134778226, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 362956049, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 156132965, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: -824906096, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: -52256143, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: -1066086862, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 1832009555, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: -393198496, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: -354040236, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: -770288494, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: -1661416013, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 1475701200, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: -112822496, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: -185769055, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: -880702753, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 804580849, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 1003125659, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 1517422723, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: -85925353, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 25308432, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 1003679429, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 1825710056, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 373214725, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 1202369665, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: -2029468145, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 217563977, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 863955419, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: -42806561, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 1916118070, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 2014485722, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: -1741657159, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 1498598614, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+    - spriteList:
+      - {fileID: 183635772, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+  m_TextureList:
+  - {fileID: 2800000, guid: 2e3ebe08819d42249a44bba1a88e8f86, type: 3}
+  m_TextureScaleList:
+  - 1

@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 7f8f8505a0187bb47bba91c13a86dcdf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4011787313190338612
+    second: player_roguelite_0
+  - first:
+      213: 762939270423233129
+    second: player_roguelite_1
+  - first:
+      213: 7578698331251332651
+    second: player_roguelite_2
+  - first:
+      213: -4337585081514121366
+    second: player_roguelite_3
+  - first:
+      213: -7452225983571309407
+    second: player_roguelite_4
+  - first:
+      213: 3030274668841266251
+    second: player_roguelite_5
+  - first:
+      213: 641377175963961356
+    second: player_roguelite_6
+  - first:
+      213: 3820206162252184403
+    second: player_roguelite_7
+  - first:
+      213: 4308028780542594787
+    second: player_roguelite_8
+  - first:
+      213: -7310465343642674940
+    second: player_roguelite_9
+  - first:
+      213: -2116426933341442325
+    second: player_roguelite_10
+  - first:
+      213: -3252247821443705456
+    second: player_roguelite_11
+  - first:
+      213: -8453129941734206130
+    second: player_roguelite_12
+  - first:
+      213: 443880515462113022
+    second: player_roguelite_13
+  - first:
+      213: -6975663131410893801
+    second: player_roguelite_14
+  - first:
+      213: -5187692110570352899
+    second: player_roguelite_15
+  - first:
+      213: 3363915460304186194
+    second: player_roguelite_16
+  - first:
+      213: -5856099218959848944
+    second: player_roguelite_17
+  - first:
+      213: -8769804732141634197
+    second: player_roguelite_18
+  - first:
+      213: -496108245298645030
+    second: player_roguelite_19
+  - first:
+      213: 3981831566929336912
+    second: player_roguelite_20
+  - first:
+      213: -1513611232202779211
+    second: player_roguelite_21
+  - first:
+      213: -6146846480542314093
+    second: player_roguelite_22
+  - first:
+      213: 2704138409510147409
+    second: player_roguelite_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player_roguelite_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 130
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43001255e4bbca730800000000000000
+      internalID: 4011787313190338612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_roguelite_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 130
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962c5c66931869a00800000000000000
+      internalID: 762939270423233129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_roguelite_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 130
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26d4168af1fc2960800000000000000
+      internalID: 7578698331251332651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_roguelite_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 130
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a672151995dcdc3c0800000000000000
+      internalID: -4337585081514121366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_roguelite_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 130
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1accb4793ff549890800000000000000
+      internalID: -7452225983571309407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_roguelite_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 98
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ce52891c2bd0a20800000000000000
+      internalID: 3030274668841266251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_roguelite_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 98
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c080064b421a6e800800000000000000
+      internalID: 641377175963961356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_roguelite_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 98
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bbcc5a349140530800000000000000
+      internalID: 3820206162252184403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_roguelite_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 98
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee866ad95139cb30800000000000000
+      internalID: 4308028780542594787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_roguelite_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 98
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409df51a0820c8a90800000000000000
+      internalID: -7310465343642674940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_roguelite_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 66
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee2d1ddae0f0a2e0800000000000000
+      internalID: -2116426933341442325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_roguelite_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 66
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0955f4966d1bdd2d0800000000000000
+      internalID: -3252247821443705456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_roguelite_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45d6b6ca1370ba80800000000000000
+      internalID: -8453129941734206130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_roguelite_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 66
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef626de1afaf82600800000000000000
+      internalID: 443880515462113022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_roguelite_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 65
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714f6733757713f90800000000000000
+      internalID: -6975663131410893801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_roguelite_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe8b51d28d9108b0800000000000000
+      internalID: -5187692110570352899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_roguelite_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 33
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b20e1d9470fae20800000000000000
+      internalID: 3363915460304186194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_roguelite_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 33
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01aa47c89c4fabea0800000000000000
+      internalID: -5856099218959848944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_roguelite_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 33
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d782f7f056b4680800000000000000
+      internalID: -8769804732141634197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_roguelite_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 33
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7f4dced287d19f0800000000000000
+      internalID: -496108245298645030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_roguelite_20
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 32
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a9246a6be424730800000000000000
+      internalID: 3981831566929336912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_roguelite_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b513809a929efae0800000000000000
+      internalID: -1513611232202779211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_roguelite_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3915a6e71b302baa0800000000000000
+      internalID: -6146846480542314093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_roguelite_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155975a6e87078520800000000000000
+      internalID: 2704138409510147409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      player_roguelite_0: 4011787313190338612
+      player_roguelite_1: 762939270423233129
+      player_roguelite_10: -2116426933341442325
+      player_roguelite_11: -3252247821443705456
+      player_roguelite_12: -8453129941734206130
+      player_roguelite_13: 443880515462113022
+      player_roguelite_14: -6975663131410893801
+      player_roguelite_15: -5187692110570352899
+      player_roguelite_16: 3363915460304186194
+      player_roguelite_17: -5856099218959848944
+      player_roguelite_18: -8769804732141634197
+      player_roguelite_19: -496108245298645030
+      player_roguelite_2: 7578698331251332651
+      player_roguelite_20: 3981831566929336912
+      player_roguelite_21: -1513611232202779211
+      player_roguelite_22: -6146846480542314093
+      player_roguelite_23: 2704138409510147409
+      player_roguelite_3: -4337585081514121366
+      player_roguelite_4: -7452225983571309407
+      player_roguelite_5: 3030274668841266251
+      player_roguelite_6: 641377175963961356
+      player_roguelite_7: 3820206162252184403
+      player_roguelite_8: 4308028780542594787
+      player_roguelite_9: -7310465343642674940
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
