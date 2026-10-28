@@ -1,0 +1,22 @@
+{
+  "name": "puzzle-game-server",
+  "version": "1.0.0",
+  "description": "Backend API for HD2D co-op puzzle game - user auth & room management",
+  "main": "server.js",
+  "engines": {
+    "node": ">=18.11"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "better-sqlite3": "^12.2.0",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express-rate-limit": "^7.4.0"
+  }
+}

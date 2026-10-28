@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b8d1e5f7c2a4d69b8e0f1a2b3c4d5e6, type: 3}
+  m_Name: Skill_EnemyPoison
+  m_EditorClassIdentifier:
+  SkillName: "毒雾"
+  Description: "散播毒雾攻击一名敌人。暗属性魔法。"
+  Icon: {fileID: 0}
+  SpCost: 0
+  Power: 95
+  Hits: 1
+  DamageType: 12
+  IsMagical: 1
+  TargetType: 0
+  EffectType: 0

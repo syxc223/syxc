@@ -32,3 +32,22 @@ Thumbs.db
 # 你项目里的临时目录
 .history/
 .vscode/
+
+# AI工具缓存与索引
+.codely-cli/
+.codely/
+.codely.packages/
+.codelyignore
+.claude/
+mem-log/
+Backups/
+
+# 截图与文档附件（非必要）
+screenshots/
+Posters/
+
+# 服务端依赖与临时文件
+server/node_modules/
+*.swp
+*.swo
+.env
